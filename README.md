@@ -1,2 +1,3 @@
 # LC_Simulation_BOOKCLUB
-materials for LC simulation book club
+materials for LC simulation book club at uestc, cuiling meng's group
+Author: Rongxing Xu (with the help of ChatGPT)
